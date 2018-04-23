@@ -1,0 +1,74 @@
+﻿2018-04-23T00:04:15.2341663+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-23T00:04:15.3233717+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-23T00:04:15.3243742+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T00:04:15.3253770+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-23T00:04:24.3876404+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-23T00:04:24.3886280+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T00:04:45.0324514+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-23T000415.log
+2018-04-23T00:04:45.0334605+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-23T00:05:07.1827230+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-23T00:05:07.2028042+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-23T00:05:07.2028042+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T00:05:07.2038102+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-23T00:05:14.2078455+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-23T00:05:14.2088135+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T00:05:32.6293519+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-23T000507.log
+2018-04-23T00:05:32.6303555+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-23T00:05:55.2759750+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-23T00:05:55.2990358+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-23T00:05:55.3000443+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T00:05:55.3000443+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-23T00:06:08.3046509+05:30;Thread#15;Info;Discovering target: Default
+2018-04-23T00:06:08.3055758+05:30;Thread#15;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NopCommerce/Default - 
+#1: Default - 
+#2: NopCommerce - 
+#3: Registration - 
+#5: Nop Commerce Registration and Login - TestAssembly:NopCommerce/Feature:Registration/Scenario:Nop+Commerce+Registration+and+Login
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NopCommerce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have Nop Commerce Application Launched
+Thread#0:T:done: Nop_RegistrationSteps.GivenIHaveNopCommerceApplicationLaunched() (2.6s)
+Thread#0:B:And I launch Registration Page
+Thread#0:T:done: Nop_RegistrationSteps.GivenILaunchRegistrationPage() (1.0s)
+Thread#0:B:When I submitt the Registration Page
+Thread#0:T:done: Nop_RegistrationSteps.WhenISubmittTheRegistrationPage() (2.6s)
+Thread#0:B:Then I could be Registered Successfully
+Thread#0:T:done: Nop_RegistrationSteps.ThenICouldBeRegisteredSuccessfully() (0.0s)
+Thread#0:B:When I Launch Login Page
+Thread#0:T:done: Nop_RegistrationSteps.WhenILaunchLoginPage() (0.7s)
+Thread#0:B:And I give user credentials
+Thread#0:T:done: Nop_RegistrationSteps.WhenIGiveUserCredentials() (0.6s)
+Thread#0:B:Then I should be logged in successfully
+Thread#0:T:done: Nop_RegistrationSteps.ThenIShouldBeLoggedInSuccessfully() (0.0s)
+Thread#0:B:And I Should Logout
+Thread#0:T:done: Nop_RegistrationSteps.ThenIShouldLogout() (0.7s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 18.3622717 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

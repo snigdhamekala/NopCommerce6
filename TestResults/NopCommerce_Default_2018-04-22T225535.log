@@ -1,0 +1,121 @@
+﻿2018-04-22T22:44:49.9367959+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-22T22:44:50.1863846+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-22T22:44:50.1873567+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:44:50.1873567+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-22T22:45:00.3235184+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-22T22:45:00.3245223+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:45:01.8483225+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-22T224450.log
+2018-04-22T22:45:01.8493440+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-22T22:49:43.1287761+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-22T22:49:43.1468565+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-22T22:49:43.1478396+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:49:43.1478396+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-22T22:49:50.1529392+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-22T22:49:50.1548077+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:49:51.0387343+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-22T224943.log
+2018-04-22T22:49:51.0387343+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-22T22:52:10.3685331+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-22T22:52:10.3866100+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-22T22:52:10.3875839+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:52:10.3875839+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-22T22:52:20.3925668+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-22T22:52:20.3944339+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:52:21.3200391+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-22T225210.log
+2018-04-22T22:52:21.3210419+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-22T22:54:44.4376788+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-22T22:54:44.4607682+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-22T22:54:44.4607682+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:54:44.4619491+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-22T22:54:57.4659915+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-22T22:54:57.4668512+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:54:58.3262857+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\NopCommerce\TestResults\NopCommerce_Default_2018-04-22T225444.log
+2018-04-22T22:54:58.3262857+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-22T22:55:35.7827086+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-22T22:55:35.7997820+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-22T22:55:35.8007873+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-22T22:55:35.8017584+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-22T22:55:42.8062888+05:30;Thread#5;Info;Discovering target: Default
+2018-04-22T22:55:42.8081556+05:30;Thread#5;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NopCommerce/Default - 
+#1: Default - 
+#2: NopCommerce - 
+#3: Registration - 
+#4: Nop Commerce Registration - TestAssembly:NopCommerce/Feature:Registration/Scenario:Nop+Commerce+Registration
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NopCommerce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have Nop Commerce Application Launched
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:B:And I launch Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I submitt the Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I could be Registered Successfully
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.1233278 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given I have Nop Commerce Application Launched
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:B:And I launch Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I submitt the Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I could be Registered Successfully
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.006016 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:B:Given I have Nop Commerce Application Launched
+Thread#0:T:error: Object reference not set to an instance of an object.
+Thread#0:B:And I launch Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I submitt the Registration Page
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then I could be Registered Successfully
+Thread#0:T:skipped because of previous errors
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.0050135 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1

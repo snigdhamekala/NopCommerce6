@@ -1,0 +1,48 @@
+﻿2018-04-23T01:18:15.6275818+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-23T01:18:15.9145690+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-23T01:18:15.9155475+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+2018-04-23T01:18:15.9165476+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-23T01:18:22.9762555+05:30;Thread#13;Info;Discovering target: Default
+2018-04-23T01:18:22.9772597+05:30;Thread#13;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\NopCommerce\NopCommerce\bin\Debug\NopCommerce.dll
+Appdomain Disposed
+Test Suite Dump
+#0: NopCommerce/Default - 
+#1: Default - 
+#2: NopCommerce - 
+#3: JsonGetAPI - 
+#4: GetDataFromAPI - TestAssembly:NopCommerce/Feature:JsonGetAPI/Scenario:GetDataFromAPI
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for NopCommerce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.1\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have The API URL
+Thread#0:T:done: JsonGetAPISteps.GivenIHaveTheAPIURL() (0.0s)
+Thread#0:B:When I do a GET call to the API
+Thread#0:T:done: JsonGetAPISteps.WhenIDoAGETCallToTheAPI() (0.4s)
+Thread#0:B:Then I could get the json data from the API
+Thread#0:T:done: JsonGetAPISteps.ThenICouldGetTheJsonDataFromTheAPI() (0.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 10.3950016 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
